@@ -1,0 +1,2 @@
+# Shumes
+Shumes (SHU MEmory safety) is a simple single header library to help developing safer C projects with minimum overhead and maximum simplicity. I think it will also provide some error management logic that can be used in projects themselves.
